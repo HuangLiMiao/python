@@ -22,7 +22,7 @@
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0105/215053_87ee4afd_2229822.png "3.png")
 
-### - [项目源数据整合](https://github.com/HuangLiMiao/python-end/tree/master/data)
+### - [项目源数据整合](https://github.com/HuangLiMiao/python/tree/master/data)
 
 
 ## ✨四 技术文档书写
