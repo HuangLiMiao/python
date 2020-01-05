@@ -14,7 +14,7 @@
 
 ## ✨三 项目相关页面
 
-### - [项目代码地址](https://github.com/HuangLiMiao/python-end/tree/master/Election)
+### - [项目代码地址](https://github.com/HuangLiMiao/python/tree/master/ZZ-Election)
 ![项目页面截图](https://images.gitee.com/uploads/images/2020/0105/203432_fc1bc315_2229822.png)
 
 ### - [项目的在线部署](http://huanglimiao.pythonanywhere.com/)
